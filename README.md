@@ -10,17 +10,19 @@ Some users are really naughty, hiding their real selves from websites. Let's fix
 ## Running
 ### *nix
 1. Install [Deno](https://deno.land).
-2. Download the [pre-built script](dist/deno.js) `deno.js` from `dist/`.
+2. Download the [pre-built script](dist/deno.js) `deno.js` from `dist/` or releases.
 3. Run `deno run --allow-net deno.js`.
 
 ### Cloudflare Workers
-Cloudflare Workers isn't supported because I'm lazy 🤪.
+Cloudflare Workers isn't supported because I'm lazy 🤪. Supporting it should be easy enough though!
 
 ### Deno Deploy
 1. Create a playground on [Deno Deploy](https://deno.com/).
 2. Paste and deploy the [pre-built script](dist/deno.js).
 
 ## How it works
+_(last updated on 24 July 2022)_
+
 ### A little background
 Bromite claims to be a privacy-respecting browser, but its actual implementations can be questionable: some causing headaches for web developers like me, and some outright exploitable to deny its access. This isn't trying to downplay their work, but to point out how they can do a little bit better.
 

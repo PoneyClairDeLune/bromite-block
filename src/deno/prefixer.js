@@ -1,0 +1,1 @@
+"use strict";import{serve}from"https://deno.land/std/http/server.ts";let pW="0.0",pV="Deno";
