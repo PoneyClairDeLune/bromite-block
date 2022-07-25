@@ -5,7 +5,8 @@ let wrapHtml = function (status = 200, title = "Lorem", content = "Blank.") {
 		status: status,
 		headers: {
 			"Server": "Cloud Hop",
-			"Content-Type": "text/html"
+			"Content-Type": "text/html",
+			"Accept-CH": "sec-ch-ua-full-version,sec-ch-ua-full-version-list"
 		}
 	});
 };

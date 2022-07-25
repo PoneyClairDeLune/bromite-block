@@ -34,4 +34,4 @@ Since Chromium 89, client hints was pushed as a "feature" to every installation 
 See my [Telegram channel](https://t.me/lumiere_eleve_en_Ponyville/687).
 
 ### Bromite ~103
-See my [Telegram channel](https://t.me/lumiere_eleve_en_Ponyville/688).
+Implemented. See my [Telegram channel](https://t.me/lumiere_eleve_en_Ponyville/688).
